@@ -12,6 +12,7 @@
         <module>maven-javase-project-01</module>
         <module>maven-javaee-project-02</module>
         <module>maven-pom-dependencies-03</module>
+        <module>maven-pom-build-04</module>
     </modules>
 
     <properties>
